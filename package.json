@@ -1,0 +1,21 @@
+{
+  "name": "playwrightpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu98891/playwrightPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manu98891/playwrightPractice/issues"
+  },
+  "homepage": "https://github.com/manu98891/playwrightPractice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
